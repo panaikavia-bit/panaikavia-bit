@@ -4,7 +4,7 @@
 class AIEngineer:
 
     def __init__(self):
-        self.name = "YOUR NAME"
+        self.name = "KAVIA"
         self.role = [
             "AI & ML Engineer",
             "Data Scientist",
