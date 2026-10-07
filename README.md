@@ -1,258 +1,221 @@
-🌌 KAVIA — AI • DATA • 3D
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:05001a,25:240046,50:3c096c,75:7b2cbf,100:00f5ff&height=230&section=header&text=YOUR%20NAME&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35" /> </p> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+%26+Machine+Learning+Engineer+%F0%9F%A4%96;Data+Scientist+%F0%9F%93%8A;Data+Engineer+%F0%9F%9B%A0%EF%B8%8F;Data+Analyst+%F0%9F%93%88;Python+Developer+%F0%9F%90%8D;3D+%26+Interactive+Design+Enthusiast+%F0%9F%8E%A8;Building+Intelligent+Digital+Experiences+%F0%9F%9A%80" alt="Typing Animation" /> </p> <p align="center"> <a href="YOUR_LINKEDIN_URL"> <img src="https://img.shields.io/badge/LINKEDIN-00F7FF?style=for-the-badge&logo=linkedin&logoColor=05001a"/> </a> <a href="mailto:YOUR_EMAIL"> <img src="https://img.shields.io/badge/EMAIL-FF00E5?style=for-the-badge&logo=gmail&logoColor=ffffff"/> </a> <a href="https://github.com/YOUR_GITHUB_USERNAME"> <img src="https://img.shields.io/badge/GITHUB-7B2CBF?style=for-the-badge&logo=github&logoColor=ffffff"/> </a> </p>
-🧬 who_am_i()
-class AIEngineer:
+<!-- Replace every YOUR_USERNAME with your GitHub username. Repo name must equal your username. -->
 
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Hi%2C%20I'm%20Kavia&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Data%20Science%20Engineer%20in%20the%20making&descAlignY=58&descSize=18" width="100%" alt="header"/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=36BCF7&center=true&vCenter=true&width=640&lines=Building+AI-powered+applications;Turning+data+into+decisions;NLP+%7C+ML+%7C+Information+Retrieval;Open+to+internships+%26+collaborations" alt="Typing SVG" />
+</a>
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=flat-square)
+![Followers](https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=flat-square&color=36BCF7)
+![Stars](https://img.shields.io/github/stars/YOUR_USERNAME?label=Stars&style=flat-square&color=f5c542)
+
+</div>
+
+---
+
+## 👩‍💻 About Me
+
+```python
+class Kavia:
     def __init__(self):
-        self.name = "KAVIA"
-        self.role = [
-            "AI & ML Engineer",
-            "Data Scientist",
-            "Data Engineer",
-            "Data Analyst"
-        ]
+        self.role      = "B.Tech AI & Data Science Undergraduate"
+        self.university = "Dhanalakshmi Srinivasan University (2023 – 2027)"
+        self.location  = "Tiruchirappalli, Tamil Nadu, India 🇮🇳"
+        self.focus     = ["Machine Learning", "NLP", "Information Retrieval", "LLM Applications"]
+        self.currently = "Building AI-powered full-stack products"
+        self.open_to   = ["Internships", "Open-source", "Research collaborations"]
 
-        self.interests = [
-            "Artificial Intelligence",
-            "Machine Learning",
-            "Deep Learning",
-            "Data Science",
-            "Data Engineering",
-            "Data Analytics",
-            "3D & Interactive Design"
-        ]
+    def motto(self):
+        return "Ship it, measure it, improve it."
+```
 
-        self.mission = "Turn data into intelligence 🚀"
+- 🔭 Currently building an **AI-powered Resume Screening platform** (Flask + React + TF-IDF)
+- 🧠 Deep-diving into **LLM pipelines**, prompt chaining, and retrieval systems
+- 🌱 Exploring **data mining** (Apriori, HITS, ranking algorithms) and IR architecture
+- 🤝 Contributing to **open source** (Next.js / TypeScript)
+- ⚡ Ask me about: NLP, ML pipelines, Flask/React integration, LangChain, Ollama
 
-    def say_hi(self):
-        print("Welcome to my digital space! 🌌")
+---
 
-🌐 SYSTEM PROFILE
-<table> <tr> <td width="50%">
-🤖 AI & ML
-▸ Machine Learning
-▸ Deep Learning
-▸ Computer Vision
-▸ NLP
-▸ Predictive Modeling
-▸ Classification
-▸ Regression
-▸ Model Evaluation
+## 🛠️ Tech Stack
 
-</td> <td width="50%">
-📊 DATA
-▸ Data Science
-▸ Data Engineering
-▸ Data Analytics
-▸ ETL / ELT
-▸ Data Cleaning
-▸ Data Visualization
-▸ Statistical Analysis
-▸ Business Intelligence
+<div align="center">
 
-</td> </tr> </table>
-⚡ TECHNOLOGY MATRIX
-🐍 Programming
-<p align="center"> <img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,html,css&theme=dark" /> </p>
-🧠 AI / Machine Learning
-<p align="center"> <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark" /> </p> <p align="center">
+**Languages**
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
+**AI / ML / Data**
 
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-154F5B?style=for-the-badge)
 
+**Web / Backend**
 
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-</p>
-🗄️ Databases
-<p align="center"> <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark" /> </p>
-☁️ Cloud • DevOps • Tools
-<p align="center"> <img src="https://skillicons.dev/icons?i=git,github,docker,aws,linux,vscode&theme=dark" /> </p>
-🎨 3D + INTERACTIVE UNIVERSE
-                    ╔══════════════════╗
-                    ║   YOUR IDEAS 🚀  ║
-                    ╚════════╤═════════╝
-                             │
-              ┌──────────────┼──────────────┐
-              ▼              ▼              ▼
-          🤖 AI / ML      📊 DATA       🎨 3D
-              │              │              │
-              └──────────────┼──────────────┘
-                             ▼
-                    🌐 INTERACTIVE
-                       EXPERIENCE
+**Tools**
 
-✨ Creative Technology
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-I enjoy exploring the intersection of:
+</div>
 
-AI + Data + Design + 3D + Interactive Experiences
+---
 
-AI
- │
- ├── Intelligence
- │
- ├── Automation
- │
- └── Prediction
-       │
-       ▼
-     DATA
-       │
-       ├── Analysis
-       ├── Engineering
-       └── Visualization
-              │
-              ▼
-          INTERACTIVE
-           EXPERIENCES
-              │
-              ▼
-             🚀
+## 🚀 Featured Projects
 
-🚀 FEATURED PROJECTS
-✍️ Handwritten Character Recognition
+<table>
+  <tr>
+    <td width="50%" valign="top">
 
-An AI/ML computer vision project for recognizing handwritten characters from images.
+### 📄 AI-Powered Resume Screening
+Full-stack platform that ranks resumes against job descriptions.
 
-🔬 Core Concepts
-Image
-  ↓
-Preprocessing
-  ↓
-Feature Extraction
-  ↓
-Machine Learning Model
-  ↓
-Classification
-  ↓
-Recognized Character
+- **TF-IDF + cosine similarity** scoring (beyond keyword matching)
+- **Flask** backend with PDF parsing
+- **React** dashboard with drag-and-drop upload and ranked results
 
+`Python` `Flask` `React` `scikit-learn` `NLP`
 
-Technologies
+[🔗 View Repository](https://github.com/YOUR_USERNAME/YOUR_REPO)
 
-Python • Machine Learning • Computer Vision • OpenCV • Deep Learning
+</td>
+    <td width="50%" valign="top">
 
-🔗 Repository:
-YOUR_PROJECT_LINK
+### 🔗 Prompt Chaining Pipeline
+Multi-step LLM workflow running fully local.
 
-🧪 PROJECT LAB
-Project	Domain	Technologies
-✍️ Handwritten Character Recognition	AI / Computer Vision	Python • ML • OpenCV
-🤖 AI Projects	Artificial Intelligence	Python • ML • DL
-📊 Analytics Projects	Data Analytics	Python • SQL • Power BI
-🛠️ Data Pipelines	Data Engineering	Python • SQL • ETL
-🎨 Interactive Experiences	Creative Tech	Web • 3D • Visualization
+- **LangChain** orchestration of chained prompts
+- **Ollama / Llama 3** local inference, no API cost
+- Modular chains for reusable, testable stages
 
-🔥 More projects are continuously being developed.
+`Python` `LangChain` `Ollama` `Llama3`
 
-📊 GITHUB ANALYTICS
-<p align="center"> <img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&bg_color=05001a&title_color=00f7ff&icon_color=ff00e5&text_color=ffffff&border_color=7b2cbf&hide_border=false&count_private=true"/> <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&bg_color=05001a&title_color=00f7ff&text_color=ffffff&border_color=7b2cbf"/> </p>
-🔥 CONTRIBUTION STREAK
-<p align="center"> <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&background=05001a&border=7B2CBF&stroke=7B2CBF&ring=00F7FF&fire=FF00E5&currStreakLabel=00F7FF&sideLabels=FFFFFF&dates=AAAAAA" /> </p>
-🐍 CONTRIBUTION SNAKE
-<p align="center"> <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation"/> </p>
-🐍 Snake Animation Setup
+[🔗 View Repository](https://github.com/YOUR_USERNAME/YOUR_REPO)
 
-Create a GitHub Actions workflow:
+</td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
 
-.github/workflows/snake.yml
+### 🎯 Interview Analyzer & Resume Matcher
+AI tool with multi-tab React UI and structured JSON scoring.
 
-name: Generate Snake
+- Scoring across multiple dimensions
+- Export-ready reports
+- Built on the **Anthropic API**
 
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
+`React` `Anthropic API` `JSON` `Tailwind`
 
-jobs:
-  generate:
-    runs-on: ubuntu-latest
+[🔗 View Repository](https://github.com/YOUR_USERNAME/YOUR_REPO)
 
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: YOUR_GITHUB_USERNAME
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+</td>
+    <td width="50%" valign="top">
 
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          BUILD_DIR: dist
+### 🧮 Algorithms Lab: Data Mining & IR
+Implementations from coursework.
 
-📈 MY DEVELOPMENT PIPELINE
-        ┌──────────────────┐
-        │       IDEA       │
-        └────────┬─────────┘
-                 ↓
-        ┌──────────────────┐
-        │       DATA       │
-        └────────┬─────────┘
-                 ↓
-        ┌──────────────────┐
-        │   ENGINEERING    │
-        └────────┬─────────┘
-                 ↓
-        ┌──────────────────┐
-        │   ANALYTICS 📊   │
-        └────────┬─────────┘
-                 ↓
-        ┌──────────────────┐
-        │     AI / ML 🤖   │
-        └────────┬─────────┘
-                 ↓
-        ┌──────────────────┐
-        │   DEPLOYMENT ☁️  │
-        └────────┬─────────┘
-                 ↓
-        ┌──────────────────┐
-        │  IMPACT 🚀       │
-        └──────────────────┘
+- **Apriori** frequent itemsets and association rules
+- **HITS** hub/authority scoring
+- IR pipeline: indexing, retrieval, ranking, evaluation
 
-🎯 CURRENT MISSION
-[████████████████████░░] 90%
+`Python` `Java` `Data Mining` `IR`
 
-AI Engineering          ████████████████████ 100%
-Machine Learning        ██████████████████░░  90%
-Data Science            █████████████████░░░  85%
-Data Engineering        ███████████████░░░░░  75%
-Data Analytics          ██████████████████░░  90%
-3D / Interactive        █████████████░░░░░░░  65%
-Cloud / MLOps            ████████████░░░░░░░░  60%
+[🔗 View Repository](https://github.com/YOUR_USERNAME/YOUR_REPO)
 
-🌌 CURRENTLY EXPLORING
+</td>
+  </tr>
+</table>
 
-🔹 Advanced Machine Learning
-🔹 Deep Learning
-🔹 Generative AI
-🔹 Data Engineering
-🔹 MLOps
-🔹 Cloud Computing
-🔹 3D Web Experiences
-🔹 Interactive Data Visualization
-🔹 AI-powered Applications
+---
 
-💡 MY PHILOSOPHY
-<p align="center">
-"Data is the raw material.
-AI is the intelligence.
-Design is the experience.
-Innovation connects them all." 🚀
-</p>
-📫 CONNECT WITH ME
-<p align="center"> <a href="YOUR_LINKEDIN_URL"> <img src="https://img.shields.io/badge/LinkedIn-00F7FF?style=for-the-badge&logo=linkedin&logoColor=05001a"/> </a> <a href="mailto:YOUR_EMAIL"> <img src="https://img.shields.io/badge/Gmail-FF006E?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://github.com/YOUR_GITHUB_USERNAME"> <img src="https://img.shields.io/badge/GitHub-7B2CBF?style=for-the-badge&logo=github&logoColor=white"/> </a> </p>
-👀 PROFILE VISITORS
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE%20VIEWS&color=00F7FF&style=for-the-badge" /> </p>
-<p align="center">
-⚡ BUILD • LEARN • EXPERIMENT • INNOVATE ⚡
+## 🌍 Open Source
 
-Thanks for visiting my GitHub profile!
+- 🟢 **Hushh Labs** (Next.js / TypeScript): authored the PR/FAQ documentation for Issue #650 in Amazon PR/FAQ format.
 
-⭐ Explore my repositories
-🤝 Let's collaborate
-🚀 Let's build the future with AI & Data
+---
 
-</p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:05001a,25:240046,50:3c096c,75:7b2cbf,100:00f5ff&height=150&section=footer&animation=fadeIn" /> </p>
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top languages"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="streak"/>
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophies"/>
+
+</div>
+
+<details>
+<summary><b>📈 Contribution Graph</b></summary>
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" width="100%" alt="activity graph"/>
+
+</details>
+
+---
+
+## 🎓 Education
+
+| Degree | Institution | Years |
+|--------|-------------|-------|
+| B.Tech, Artificial Intelligence & Data Science | Dhanalakshmi Srinivasan University | 2023 – 2027 |
+
+**Relevant coursework:** Machine Learning · Natural Language Processing · Data Mining · Information Retrieval · Full-Stack Development
+
+---
+
+## 🎯 Currently Working Toward
+
+- [x] Resume screening engine with TF-IDF similarity
+- [x] React dashboard with PDF upload
+- [x] First open-source contribution
+- [ ] Semantic matching with embeddings (SBERT)
+- [ ] Deploy projects with live demos
+- [ ] Publish a technical write-up on retrieval and ranking
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0f2027?style=for-the-badge&logo=googlechrome&logoColor=white)](https://YOUR_PORTFOLIO.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/YOUR_USERNAME)
+
+<br/>
+
+> *"Data is the new code. Models are the new compilers."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%" alt="footer"/>
+
+</div>
